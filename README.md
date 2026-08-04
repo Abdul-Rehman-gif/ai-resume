@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="ResumeIQ AI Banner" width="420">
+  <img src="src/banner.png" alt="ResumeIQ AI Banner" width="420">
 
   #  ResumeIQ AI
 
