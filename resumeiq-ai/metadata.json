@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ AI",
+  "description": "AI Resume Checker, ATS Scanner & Recruiter Resume Builder with Harvard, Google, and Executive templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
