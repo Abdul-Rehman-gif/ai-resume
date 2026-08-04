@@ -34,7 +34,7 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > Add real screenshots here as the app is used — for now, here's the shape of the experience:
 
